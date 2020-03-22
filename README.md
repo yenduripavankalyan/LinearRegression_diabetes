@@ -15,6 +15,7 @@ Use this new m & b to predict Blood Sugar of sample/test data of BMI and BP.
 
 Data Preprocessing:
 For the DataSet which I have luckily has all integer values which makes clean of data easy😊.
+
 Selection of features:
 1.	As we have seen from the above, data has 9 input features and one output variable i.e(Blood Sugar of a patient).
 2.	After a clear study and observation of the input features of the Diabetes Data. The BMI and the BP are the most co-related features for the prediction of the Blood sugar of the patient.
